@@ -1,4 +1,4 @@
-## ASSIGNMENT 4 DATA1202 Repository
+## ASSIGNMENT 5 DATA1202 Repository
 In this file, there is a description of python codes which shows the calculation of 100 rows of channel type distribution from the given dataset which contains nearly 4000 rows. Each steps are given and exaplained. From this, anyone can have overall idea about the calculation of channel type distribution.
 
 ## Installing libraries
