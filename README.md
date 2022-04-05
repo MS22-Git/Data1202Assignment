@@ -13,4 +13,12 @@ from sqlalchemy import create_engine
 ```
 
 ## Explanation
-We are going to perform these codes in order to get 1000 rows output. First of all, we created a function with the parameters and then we loaded the data from first row to last with givenn codes in the python file. Then, we count the value as df1 
+We are going to perform these codes in order to get 1000 rows output. First of all, we created a function with the parameters and then we loaded the data from first row to last with givenn codes in the python file. Then, we count the value as df1. Then, we loaded the top 1000 rows from the dataset using the a python function which is given in the python file. 
+We also loaded the data to a database table. So, we needed a connection to database and for that, we created an engine. As a result, we were able to load the data to a database table.
+
+## Author
+Mohammedmusael Shaikh
+
+## Acknowledgement 
+The code which we used in python file have been taken from Assignment #4 of DATA1202.
+
