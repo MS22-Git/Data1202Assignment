@@ -11,7 +11,7 @@ df = pd.read_csv("youtube_dataset.csv",encoding = "ISO-8859-1")
 #Find how many records this data frame has
 df.head()
 
-Create function
+#Create function
 def channeltype_distribution(firstrow,lastrow):
     
     #Load top records of the original 4000 records
