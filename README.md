@@ -13,4 +13,4 @@ from sqlalchemy import create_engine
 ```
 
 ## Explaination
-We are going to perform these codes in order to get 1000 rows 
+We are going to perform these codes in order to get 1000 rows output. First of all, we created a function with the parameters and then we loaded the data from first row to last with givenn codes in the python file. Then, we count the value as df1 
